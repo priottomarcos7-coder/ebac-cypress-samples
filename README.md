@@ -40,3 +40,35 @@ npx cypress open
 ```bash
 npx cypress run
 ```
+
+---
+
+# English Version
+
+# Cypress Starter Project
+
+This is a starter project for automated testing using **Cypress**.
+
+## Goal
+
+Provide a basic structure to help practice and develop automated tests with Cypress.
+
+## Technologies
+
+- JavaScript
+- Cypress
+- Node.js
+- npm
+
+## Getting Started
+
+Install the project dependencies and run Cypress using the scripts configured in `package.json`.
+
+Typical commands:
+
+```bash
+npm install
+npx cypress open
+```
+
+Review the project's configuration and available test files before running the tests.
